@@ -1,0 +1,29 @@
+
+
+  .response-display {
+    padding: 20px;
+    text-align: center;
+    background-color: #f1f1f1;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 35px;
+  }
+  
+  .response-display p {
+    color: black;
+    margin: 0;
+    font-size: 1.2em;
+  }
+
+  .card1{
+    width: 18rem;
+    border-radius: 35px;
+  }
+
+  .pic1{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+  }
+  

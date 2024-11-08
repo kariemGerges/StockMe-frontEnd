@@ -1,0 +1,78 @@
+.about-us {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .intro {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    color: #555;
+    margin-bottom: 40px;
+  }
+  
+  .mission-values h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .mission-values p, .mission-values ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .mission-values ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .mission-values li {
+    margin-bottom: 10px;
+  }
+  
+  .team-section {
+    margin-top: 40px;
+  }
+  
+  .team-section h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .team-section .team-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .footer-disclaimer {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .disclaimer-text, .designer-credit {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  

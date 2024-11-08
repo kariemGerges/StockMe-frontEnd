@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+body{
+  background-image: url('/home/kariem/projects/stockMe/client/src/assets/Stock2.jpeg');
+  background-size:cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  color: aliceblue;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
